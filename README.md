@@ -1,2 +1,2 @@
 # python-programming-for-newbie
-Kumpulan Kode-Kode Python Programming
+Kumpulan Kode-Kode Python Programming Untuk Newbie
